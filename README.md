@@ -15,15 +15,16 @@
  - 期望城市：北京
 
 # 技术能力
+(我会画画我会做模型我还会写代码 -- 当然我还是喜欢做饭)
 专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。了解过一些基本的前端设计模式
-- 熟悉的JavaScript类库：Jquery
-- 熟悉的JavaScript框架：React／Vue／BootStrap
+- 熟悉的JavaScript类库：Jquery(个人表示不喜欢Jq, 原生写多了)
+- 熟悉的JavaScript框架：React(RN)／Vue(大爱Vue)／BootStrap(也就看看api而已...)
 - 熟悉的项目管理和协同工具的使用：Git
-- 熟悉的服务端语言和框架：Node.js／Express／EJS
+- 熟悉的服务端语言和框架：Node.js／Express／EJS (京东面试问了为啥喜欢EJS因为我只会这个)
 - 熟悉的数据库：MongooDB／Mysql
-- 熟悉的IDE：WebStorm ／ sublime Text
-- 熟悉的操作系统：Mac／Linux／Windows
-- 其他：Java／Python／C／openGL
+- 熟悉的IDE：WebStorm ／ VSCode(大爱)
+- 熟悉的操作系统：Mac／Linux／Windows(垃圾windows)
+- 其他(这些是凑数的)：Java／Python／C／openGL
 
 # 个人经历
 - 2014年进入天津理工大学计算机专业学习
@@ -32,6 +33,9 @@
 - 大二开始接触Nodejs并开始尝试后端和数据库的学习
 - 大二下有幸成为时代亿信的大数据运维实习生
 - 大三开始接触h5游戏的开发，并开始学习设计模式和模块化开发
+- 大三下有幸通过选拔参加360前端星计划（我可能学了个假前端 -- ）
+- 360面试，一面过，二面卒(月影大大...)
+- 京东面试，一面过，二面过，三面过，收到京东好人卡？(fuck)
 
 # 实习经历
 ## 时代亿信 （ 2016年7月 ~ 2016年9月 ）

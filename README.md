@@ -5,12 +5,11 @@
 - Github: https://github.com/LNoe-lzy
 - Blog: http://blog.csdn.net/qq_21325027
 # 技术能力
-- 熟悉的 JavaScript 类库:JQuery
-- 熟悉的 JavaScript 框架:Vue / React
-- 熟悉的服务端语言和框架:Node.js/Express/EJS
-- 熟悉的数据库:MongoDB/Mysql
-- 熟悉的操作系统:Mac/Linux/Windows
-- 其他:Git / webpack / stylus / ps / ae
+- 熟练使用的 JavaScript 类库:JQuery
+- 熟练使用的 JavaScript 框架:Vue / React
+- 熟练使用的服务端语言和框架:Node.js / Express / EJS
+- 熟练使用的数据库:MongoDB/Mysql
+- 其他:Git / webpack / fis3 / stylus / less ／ ps / ae
 # 实习 / 培训经历 
 ## 360前端星计划 ( 2017年4月 )
 参与培训了 JavaScript、Node.js、前端性能优化、前端工程化、前端框架等前端相关知识，并顺利通过 培训。在培训期间，参与 chrome 插件 LetsTalk 开发并获得团体二等奖。
